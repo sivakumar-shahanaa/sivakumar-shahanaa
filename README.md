@@ -1,5 +1,5 @@
 # Hi I'm Shahanaa 💫
-Currently working on cybersecurity, systems programming, and AI-powered projects<br><br>Learning cloud security, Kubernetes, and security operations<br><br>Looking to collaborate on open-source tools, cybersecurity projects, and impactful software<br><br>Looking for help with reverse engineering, cloud security, and advanced cybersecurity concepts<br><br>Ask me about Python, C++, Linux, Git, debugging, and building projects as a CS student<br><br>⚡ Fun fact: I learn new technologies by building things, so my GitHub is basically a collection of experiments that got out of hand
+Currently working on cybersecurity, systems programming, and AI-powered projects<br><br>Learning cloud security, Kubernetes, and security operations<br><br>Looking to collaborate on open-source tools, cybersecurity projects, and impactful software<br><br>Looking for help with reverse engineering, cloud security, and advanced cybersecurity concepts<br><br>Ask me about Python, C++, Linux, Git, debugging, and building projects as a CS student<br><br>Fun fact: I learn new technologies by building things, so my GitHub is basically a collection of experiments that got out of hand
 
 
 ## Socials:
